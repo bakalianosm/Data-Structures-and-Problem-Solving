@@ -8,7 +8,7 @@ In this project I am searching for different data structures and if I like their
 The trie program that I have made until now is a program that uses the trie functionality for creating, inserting, deleting and searching for words in a trie data structure. Following is a representation of a Trie Data structure.
 
 <p align="center"> 
- <img width="800" height="500" src="images/Trie.png">
+ <imgsrc="images/Trie.png">
 </p>
 
 
