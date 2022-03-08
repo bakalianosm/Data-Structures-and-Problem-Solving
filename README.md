@@ -7,6 +7,17 @@ In this project I am searching for different data structures and if I like their
   <ol>
     <li>
       <h4><a href="https://en.wikipedia.org/wiki/Trie">Trie</a></h4>
-      <p> This is a data structure </p>
+      <p> This is a <b> tree </b> data structure that is used to store strings. The maximum number of children of a node is equal to the size of the alphabet. With Trie, we can insert and find strings in O(L) time where L represent the length of a single word. This is obviously faster than BST.
+      </p>
     </li>
   </ol>
+  
+  
+### Trie Data structure 
+**Trie** is a **tree** data structure that is used to store strings. The maximum number of children of a node is equal to the size of the alphabet. With Trie, we can insert and find strings in O(L) time where L represent the length of a single word. This is obviously faster than BST.
+
+The trie program that I have made until now is a program that uses the trie functionality for creating, inserting, deleting and searching for words in a trie data structure.
+To run this program, be sure that you are in the Trie folder and then type:
+```
+make run
+```
