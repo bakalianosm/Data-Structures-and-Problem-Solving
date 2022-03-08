@@ -2,17 +2,6 @@
 This is a repo that I design and hold different data structures and problems that are used in different interview processes.
 In this project I am searching for different data structures and if I like their concept I am trying to implement them along with some programs that are using it.
 
-
-
-  <ol>
-    <li>
-      <h4><a href="https://en.wikipedia.org/wiki/Trie">Trie</a></h4>
-      <p> This is a <b> tree </b> data structure that is used to store strings. The maximum number of children of a node is equal to the size of the alphabet. With Trie, we can insert and find strings in O(L) time where L represent the length of a single word. This is obviously faster than BST.
-      </p>
-    </li>
-  </ol>
-  
-  
 ### Trie Data structure 
 **Trie** is a **tree** data structure that is used to store strings. The maximum number of children of a node is equal to the size of the alphabet. With Trie, we can insert and find strings in O(L) time where L represent the length of a single word. This is obviously faster than BST.
 
