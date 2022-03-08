@@ -3,11 +3,10 @@ This is a repo that I design and hold different data structures and problems tha
 In this project I am searching for different data structures and if I like their concept I am trying to implement them along with some programs that are using it.
 
 
-
-<ol>
-  <li>
-    <h3>
-      Trie
-    <h3/>
-  </li>
-</ol>
+<h3>
+  <ol>
+    <li>
+        Trie
+    </li>
+  </ol>
+</3>
