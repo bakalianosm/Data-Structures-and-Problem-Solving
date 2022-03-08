@@ -6,7 +6,7 @@ In this project I am searching for different data structures and if I like their
 
   <ol>
     <li>
-      <h4>Trie</h4>
+      <h4>Trie(#https://en.wikipedia.org/wiki/Trie)</h4>
       <p> This is a data structure </p>
     </li>
   </ol>
