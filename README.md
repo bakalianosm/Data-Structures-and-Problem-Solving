@@ -9,7 +9,7 @@ The trie program that I have made until now is a program that uses the trie func
 
 
 <p align="center"> 
- <img  width="800" height="800"  src="images/Trie.png">
+ <img  width="300" height="450"  src="images/Trie.png">
 </p>
 
 
