@@ -7,6 +7,7 @@ In this project I am searching for different data structures and if I like their
   <ol>
     <li>
         Trie
+      <p> This is a data structure </p>
     </li>
   </ol>
 </3>
