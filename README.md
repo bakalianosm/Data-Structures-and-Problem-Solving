@@ -13,4 +13,4 @@ make run
 
 
 ### Binary Search
-In this folder I have implemented binary search using iteration and recursion. Then I have also implement a **hard** LeetCode problem that is used in different interviews and it's named as ![Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) . Visit the site for more
+In this folder I have implemented binary search using iteration and recursion. Then I have also implement a **hard** LeetCode problem that is used in different interviews and it's known as [Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) . Visit the site for more
